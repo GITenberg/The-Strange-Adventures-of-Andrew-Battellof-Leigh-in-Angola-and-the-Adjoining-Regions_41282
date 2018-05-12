@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '41089'
     url: http://www.gutenberg.org/2009/agents/41089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41282#The-Strange-Adventures-of-Andrew-Battellof-Leigh-in-Angola-and-the-Adjoining-Regions
 gutenberg_issued: '2012-11-03'
 gutenberg_type: Text
 identifiers:
